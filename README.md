@@ -52,3 +52,4 @@
 <img width="459" height="252" alt="image" src="https://github.com/user-attachments/assets/82492ab5-28f6-4096-9ea0-d01ec8f201e7" />
                               [그림 8] 시뮬레이션 엔진 초기 시나리오 수신
                                                       
+[[PDF]KoWarGame ReadMe (최종 하이퍼링크 수정).pdf](https://github.com/user-attachments/files/25315295/PDF.KoWarGame.ReadMe.pdf)
