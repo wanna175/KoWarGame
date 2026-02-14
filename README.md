@@ -13,4 +13,4 @@ KAIST 김탁곤 교수님의 강의 및 논문을 참고하여 구현되었습�
 
 ## 📄 상세 문서
 
-👉 **[KoWarGame ReadMe PDF 보기](/docs/KoWarGame_ReadMe.pdf)**
+👉 **[KoWarGameReadMe](docs/[PDF]KoWarGame ReadMe (최종 하이퍼링크 수정).pdf)**
