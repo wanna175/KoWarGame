@@ -1,0 +1,52 @@
+#!/bin/bash
+
+HOMEDIR=/home/ko/Desktop/git/DataTrsfer/DataTrsfer
+
+while [ true ];
+do
+    clear
+    cat ${HOMEDIR}/menu
+    echo -n "   select menu : "
+    read name
+    case  $name  in
+        '1')
+              make -f Makefile
+              echo -e "\n------------------   Press any key.   -----------------------\n"
+              read name
+              ;;
+        '2')
+              make clean
+              make all
+              echo -e "\n------------------   Press any key.   -----------------------\n"
+              read name
+              ;;
+        '3')
+              cd ./bin
+              ./DataTransfer 0
+              echo -e "\n------------------   Press any key.   -----------------------\n"
+              read name
+              ;;
+        '4')
+              cd ./bin
+              ./DataTransfer 1
+              echo -e "\n------------------   Press any key.   -----------------------\n"
+              read name
+              ;;	  
+        '5')
+              cd ./bin
+              gdb ./DataTransfer 
+              echo -e "\n------------------   Press any key.   -----------------------\n"
+			  exit 0
+			  ;;
+        '9')
+              make clean
+              echo -e "\n------------------   Press any key.   -----------------------\n"
+              read name
+              ;;
+        '0')
+              exit 0
+              ;;
+              
+    esac
+done
+end
