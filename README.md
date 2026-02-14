@@ -1,7 +1,5 @@
 # KoWarGame
 
----
-
 ## 📌 프로그램 개요
 
 본 워게임은 **국방 지휘관 훈련용 Modeling & Simulation**에 🎮 게임적 요소를 추가하여 개발되었습니다.  
@@ -15,4 +13,4 @@ KAIST 김탁곤 교수님의 강의 및 논문을 참고하여 구현되었습�
 
 ## 📄 상세 문서
 
-👉 **[KoWarGame ReadMe PDF 보기](https://github.com/user-attachments/files/25315295/PDF.KoWarGame.ReadMe.pdf)**
+👉 **[KoWarGame ReadMe PDF 보기](/docs/KoWarGame_ReadMe.pdf)**
